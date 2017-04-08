@@ -1,0 +1,18 @@
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.exe.config
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.exe
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.pdb
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.Form1.resources
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.exe
+G:\utn tssi\24 programacion II\tp 1\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.exe.config
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.exe
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.exe
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\bin\Debug\Calculadora.pdb
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.Form1.resources
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+D:\programacion\git hub\tp_laboratorio_2\tp1 - calculadora -  daniel de brito\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache

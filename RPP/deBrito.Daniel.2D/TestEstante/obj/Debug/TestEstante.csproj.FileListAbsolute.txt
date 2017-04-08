@@ -1,0 +1,27 @@
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\bin\Debug\TestEstante.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\bin\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\bin\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\obj\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v1.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.exe.config
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.exe
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\TestEstante.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\Entidades.dll
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\bin\Debug\Entidades.pdb
+D:\utn tssi\2do cuatrimestre\24 programacion II\examenes\primer parcial lab\1er parcial recuperatorio\deBrito.daniel.ruben.2D v2.0\RPP\deBrito.Daniel.2D\TestEstante\obj\Debug\TestEstante.csprojResolveAssemblyReference.cache

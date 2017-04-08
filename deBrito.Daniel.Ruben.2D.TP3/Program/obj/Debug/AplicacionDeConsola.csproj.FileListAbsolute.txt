@@ -1,0 +1,3 @@
+F:\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\Program\bin\Debug\Program.exe.config
+C:\Users\Daniel\Google Drive\utn tssi\24 programacion II\tp 3\deBrito.Daniel.Ruben.2D.TP3\Program\obj\Debug\AplicacionDeConsola.csprojResolveAssemblyReference.cache
